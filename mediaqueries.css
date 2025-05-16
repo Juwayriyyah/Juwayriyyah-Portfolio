@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 1200px) {
     #desktop-nav {
-        dispaly: none;
+        display: none;
     }
     #hamburger-nav {
         display: flex;
@@ -35,7 +35,7 @@
     }
     .section__pic-container {
         width: 275px;
-        height: 275pc;
+        height: 275px;
         margin: 0 auto 2rem;
     }
     .home-containers {
