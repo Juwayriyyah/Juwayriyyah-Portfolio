@@ -160,7 +160,7 @@ section {
 
 /* HOME SECTION */
 
-#home {
+#index.html {
     position: relative;
 }
 .section__pic-container {
@@ -257,7 +257,7 @@ section {
 
 /* PROFILE SECTION*/
 
-#profile {
+#profile.html {
     position:relative;
 }
 
@@ -298,7 +298,7 @@ section {
 }
 
 /* PROJECTS */
-#projects {
+#projects.html {
     position: relative;
 }
 
@@ -340,7 +340,7 @@ section {
 
 /* CONTACT */
 
-#contact {
+#contact.html {
     display: flex;
     justify-content: center;
     flex-direction: column;
